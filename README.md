@@ -1,2 +1,0 @@
-# mylogin-sam
-login page
